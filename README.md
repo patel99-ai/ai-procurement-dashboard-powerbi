@@ -94,7 +94,7 @@ procurement-intelligence-platform/
 
 ## About
 
-Built by **Harsh Patel** as a portfolio project for Procurement Analyst / Data Analyst roles.
+Built by **Harsh Patel** as a portfolio project.
 
 * LinkedIn: https://www.linkedin.com/in/harshpatel510/ 
 
